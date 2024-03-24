@@ -2,7 +2,7 @@
 //  FoodPickerApp.swift
 //  FoodPicker
 //
-//  Created by 劉家達 on 2024/2/20.
+//  Created by CT on 2024/2/20.
 //
 
 import SwiftUI
