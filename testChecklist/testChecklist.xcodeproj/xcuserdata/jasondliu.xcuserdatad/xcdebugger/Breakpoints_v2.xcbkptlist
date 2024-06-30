@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "557477E3-4BAC-4046-BE86-177D1CB8064E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CB1A14D-1677-40D0-BD23-D205D615BDBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testChecklist/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6CB1A14D-1677-40D0-BD23-D205D615BDBE - 90b17af08d077085"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testChecklist.ItemViewModel.deinit"
+                  moduleName = "testChecklist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasondliu/Desktop/demo/swift-samples/testChecklist/testChecklist/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "6CB1A14D-1677-40D0-BD23-D205D615BDBE - ed282bc5f1af1836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testChecklist.ItemViewModel.__deallocating_deinit"
+                  moduleName = "testChecklist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasondliu/Desktop/demo/swift-samples/testChecklist/testChecklist/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6CB1A14D-1677-40D0-BD23-D205D615BDBE - c318ae2359f12418"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testChecklist.ItemViewModel.__allocating_init() -&gt; testChecklist.ItemViewModel"
+                  moduleName = "testChecklist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasondliu/Desktop/demo/swift-samples/testChecklist/testChecklist/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6CB1A14D-1677-40D0-BD23-D205D615BDBE - 7dc5716652c54e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testChecklist.ItemViewModel.init() -&gt; testChecklist.ItemViewModel"
+                  moduleName = "testChecklist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasondliu/Desktop/demo/swift-samples/testChecklist/testChecklist/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
